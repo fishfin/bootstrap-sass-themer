@@ -1,0 +1,52 @@
+{
+  "name": "@fishfin/bootstrap-sass-themer",
+  "version": "1.0.0",
+  "description": "Gulp automation for Bootstrap (v3, v4) SASS development, also supports non-Bootstrap SASS development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fishfin/bootstrap-sass-themer.git"
+  },
+  "keywords": [
+    "bootstrap3",
+    "bootstrap4",
+    "sass",
+    "imagemin",
+    "livereload"
+  ],
+  "author": "fishfin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fishfin/bootstrap-sass-themer/issues"
+  },
+  "homepage": "https://github.com/fishfin",
+  "devDependencies": {
+    "autoprefixer": "^9.6.1",
+    "bootstrap": "^4.3.1",
+    "bootstrap-sass": "^3.4.1",
+    "beeper": "^2.0.0",
+    "colors": "^1.3.3",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-find": "^0.0.10",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^6.1.0",
+    "gulp-livereload": "^4.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0",
+    "path": "^0.12.7",
+    "yargs": "^14.0.0"
+  }
+}
